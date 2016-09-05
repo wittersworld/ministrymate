@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MinistryMate.Web", "MinistryMate-Web\MinistryMate.Web.xproj", "{5AE18CD6-2760-403A-BFF6-5F0E315E6EAB}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MinistryMate.Web", "MinistryMate.Web\MinistryMate.Web.xproj", "{5AE18CD6-2760-403A-BFF6-5F0E315E6EAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinistryMate.Droid", "MinistryMate\MinistryMate.Droid\MinistryMate.Droid.csproj", "{2AFA27FC-F193-4E58-8448-649FBF5A878A}"
 EndProject

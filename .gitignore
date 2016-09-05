@@ -3,8 +3,8 @@
 ################################################################################
 
 /.vs
-/MinistryMate-Web/obj/Debug/netcoreapp1.0
-/MinistryMate-Web/bin/Debug/netcoreapp1.0
+/MinistryMate.Web/obj/Debug/netcoreapp1.0
+/MinistryMate.Web/bin/Debug/netcoreapp1.0
 /packages
 /**/*.user
 /MinistryMate/MinistryMate.Droid/bin/
