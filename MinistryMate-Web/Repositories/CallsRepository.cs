@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MinistryMate_Web.Data;
-using MinistryMate_Web.Models;
+using MinistryMate.Web.Data;
+using MinistryMate.Web.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MinistryMate_Web.Repositories
+namespace MinistryMate.Web.Repositories
 {
     public interface ICallsRepository
     {

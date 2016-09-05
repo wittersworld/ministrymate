@@ -9,11 +9,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using MinistryMate_Web.Data;
-using MinistryMate_Web.Models;
-using MinistryMate_Web.Services;
+using MinistryMate.Web.Data;
+using MinistryMate.Web.Models;
+using MinistryMate.Web.Services;
 
-namespace MinistryMate_Web
+namespace MinistryMate.Web
 {
     public class Startup
     {

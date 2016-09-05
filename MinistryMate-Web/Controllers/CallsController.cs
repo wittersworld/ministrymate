@@ -1,10 +1,10 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MinistryMate_Web.Models;
-using MinistryMate_Web.Repositories;
+using MinistryMate.Web.Models;
+using MinistryMate.Web.Repositories;
 
-namespace MinistryMate_Web.Controllers
+namespace MinistryMate.Web.Controllers
 {
     public class CallsController : Controller
     {

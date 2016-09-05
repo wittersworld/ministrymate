@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MinistryMate_Web.Models
+namespace MinistryMate.Web.Models
 {
     public class Call
     {

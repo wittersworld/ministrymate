@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace MinistryMate_Web.Models.AccountViewModels
+namespace MinistryMate.Web.Models.AccountViewModels
 {
     public class SendCodeViewModel
     {

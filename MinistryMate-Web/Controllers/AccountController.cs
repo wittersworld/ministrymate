@@ -8,11 +8,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
-using MinistryMate_Web.Models;
-using MinistryMate_Web.Models.AccountViewModels;
-using MinistryMate_Web.Services;
+using MinistryMate.Web.Models;
+using MinistryMate.Web.Models.AccountViewModels;
+using MinistryMate.Web.Services;
 
-namespace MinistryMate_Web.Controllers
+namespace MinistryMate.Web.Controllers
 {
     [Authorize]
     public class AccountController : Controller

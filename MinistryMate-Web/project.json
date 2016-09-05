@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet-MinistryMate_Web-b3207db7-8fdc-4a6a-bb6b-4ee52371a55e",
 
   "dependencies": {
@@ -64,7 +64,12 @@
       "imports": [
         "dotnet5.6",
         "portable-net45+win8"
-      ]
+      ],
+      "dependencies": {
+        "MinistryMate.Core": {
+          "target": "project"
+        }
+      }
     }
   },
 

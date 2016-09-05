@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace MinistryMate_Web
+namespace MinistryMate.Web
 {
     public class Program
     {

@@ -5,3 +5,14 @@
 /.vs
 /MinistryMate-Web/obj/Debug/netcoreapp1.0
 /MinistryMate-Web/bin/Debug/netcoreapp1.0
+/packages
+/**/*.user
+/MinistryMate/MinistryMate.Droid/bin/
+/MinistryMate/MinistryMate.Droid/obj/
+/MinistryMate/MinistryMate.iOS/bin/
+/MinistryMate/MinistryMate.iOS/obj/
+/MinistryMate/MinistryMate.Windows/bin/
+/MinistryMate/MinistryMate.Windows/obj/
+/MinistryMate.Core/bin/
+/MinistryMate.Core/obj/
+/**/*.lock.json

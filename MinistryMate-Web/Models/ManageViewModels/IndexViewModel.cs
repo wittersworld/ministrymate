@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 
-namespace MinistryMate_Web.Models.ManageViewModels
+namespace MinistryMate.Web.Models.ManageViewModels
 {
     public class IndexViewModel
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http.Authentication;
 using Microsoft.AspNetCore.Identity;
 
-namespace MinistryMate_Web.Models.ManageViewModels
+namespace MinistryMate.Web.Models.ManageViewModels
 {
     public class ManageLoginsViewModel
     {

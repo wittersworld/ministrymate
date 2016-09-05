@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using MinistryMate_Web.Models;
+using MinistryMate.Web.Models;
 
-namespace MinistryMate_Web.Data
+namespace MinistryMate.Web.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
