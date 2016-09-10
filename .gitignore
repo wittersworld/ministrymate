@@ -13,6 +13,8 @@
 /MinistryMate/MinistryMate.iOS/obj/
 /MinistryMate/MinistryMate.Windows/bin/
 /MinistryMate/MinistryMate.Windows/obj/
+/MinistryMate/MinistryMate.WinPhone/bin/
+MinistryMate/MinistryMate.WinPhone/obj/
 /MinistryMate.Core/bin/
 /MinistryMate.Core/obj/
 /**/*.lock.json

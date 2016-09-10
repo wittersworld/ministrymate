@@ -18,6 +18,7 @@ namespace MinistryMate.Web.Models
 
     public class Publication
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Abbreviation { get; set; }
         public PublicationType PublicationType { get; set; }

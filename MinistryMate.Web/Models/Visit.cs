@@ -20,6 +20,6 @@ namespace MinistryMate.Web.Models
         public VisitType VisitType { get; set; }
         public DateTime VisitDate { get; set; }
         public string Notes { get; set; }
-        public IEnumerable<Publication> PlacedPublications { get; set; }
+        public IEnumerable<VisitPublication> PlacedPublications { get; set; }
     }
 }

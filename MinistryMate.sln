@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinistryMate.Core", "Minist
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MinistryMate\MinistryMate\MinistryMate.projitems*{180a25bc-d31b-489f-a563-c24e479d4bc3}*SharedItemsImports = 4
+		MinistryMate\MinistryMate\MinistryMate.projitems*{2afa27fc-f193-4e58-8448-649fbf5a878a}*SharedItemsImports = 4
+		MinistryMate\MinistryMate\MinistryMate.projitems*{3313e71a-c9af-4a3f-8603-17b5aead213d}*SharedItemsImports = 4
+		MinistryMate\MinistryMate\MinistryMate.projitems*{d071f572-536d-4c3a-ba07-bdebfbf9c501}*SharedItemsImports = 4
 		MinistryMate\MinistryMate\MinistryMate.projitems*{efac42a8-bc29-4df8-b57e-b7badc8f5cd6}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

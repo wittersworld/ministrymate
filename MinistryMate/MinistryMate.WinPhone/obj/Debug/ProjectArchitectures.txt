@@ -1,1 +1,0 @@
-C:\Users\mwitters\Source\ministrymate\MinistryMate\MinistryMate.WinPhone\MinistryMate.WinPhone.csproj;neutral
